@@ -1,0 +1,3 @@
+red DefaultVnet_WEU
+west_europe
+que se apague a las 15:00
